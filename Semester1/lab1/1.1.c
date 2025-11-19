@@ -8,4 +8,8 @@ int main() {
 
 printf("Hello World\n");
 return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 7cfa86c4c1df1955d05cbce77197172ebc627b27
