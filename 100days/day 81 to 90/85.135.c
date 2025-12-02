@@ -16,7 +16,7 @@ C=12
 enum Letters { A = 10, B, C }; // B = 11, C = 12 
 
 int main() {
-    printf("Name -Aditya \nSAP ID - 590029459\nCourse - BCA \nBatch-B5");
+    printf("Name -Aditya \nSAP ID - 590029459\nCourse - BCA \nBatch-B6");
 	printf("\n----------------------------------------------------------------\n");
 
     
